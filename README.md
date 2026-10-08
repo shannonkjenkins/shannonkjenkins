@@ -1,4 +1,4 @@
-printf "\e[0;36mCyan \e[1;36mbold Cyan \e[0;96mhigh intensity Cyan\n" Shannon Jenkins 
+<a href="https://github.com/">Shannon Jenkins</a>Shannon Jenkins 
 
 Welcome! I am a Business Analytics & Information Systems and Marketing student at the University of Iowa's Tippie College of Business.
 
