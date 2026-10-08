@@ -1,4 +1,4 @@
-\e[1;36m # Shannon Jenkins 
+printf "\e[1;36mCyan" # Shannon Jenkins 
 
 Welcome! I am a Business Analytics & Information Systems and Marketing student at the University of Iowa's Tippie College of Business.
 
